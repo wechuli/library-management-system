@@ -1,0 +1,20 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "library management system",
+  "main": "index.js",
+  "repository": "https://github.com/wechuli/library-management-system.git",
+  "author": "Wechuli <wechulipaul@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "node-postgres": "^0.1.4",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  }
+}
